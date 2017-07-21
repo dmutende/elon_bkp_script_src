@@ -1,0 +1,29 @@
+<ELONBKP>
+	<BKPDIR>F:&#92;Dev&#92;</BKPDIR>
+	<BKPFREQ UNIT="Days">7</BKPFREQ>
+	<BKPZIPTOOL META="There is ZIPIT(Verbose Log, Less Compact, Faster) and ZIP(Less verbose log, More Compact, Slower)">ZIP</BKPZIPTOOL>
+	<DIRSTOBKP>
+		<DIRTOBKP BKPZIPNAME="web_AngularJS_NodeJS">D:&#92;Dev&#92;Web&#92;AngularJS_NodeJS</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="web_PHP">D:&#92;Dev&#92;Web&#92;PHP</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="web_Projects">D:&#92;Dev&#92;Web&#92;Projects</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="web_www">D:&#92;Dev&#92;Web&#92;wamp64&#92;www</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="VS_WP_lib">D:&#92;Dev&#92;VisualStudio&#92;WindowsPhone&#92;lib</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="VS_WP_src">D:&#92;Dev&#92;VisualStudio&#92;WindowsPhone&#92;src</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="ruby_src">D:&#92;Dev&#92;Ruby&#92;src</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="python_ArtificialIntelligence">D:&#92;Dev&#92;Python&#92;ArtificialIntelligence</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="python_Hosting">D:&#92;Dev&#92;Python&#92;Hosting</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="python_lib">D:&#92;Dev&#92;Python&#92;lib</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="python_Projects">D:&#92;Dev&#92;Python&#92;Projects</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="python_src">D:&#92;Dev&#92;Python&#92;src</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="java_src">D:&#92;Dev&#92;Java&#92;src</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="java_lib">D:&#92;Dev&#92;Java&#92;lib</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="java_Projects">D:&#92;Dev&#92;Java&#92;Projects</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="go_src">D:&#92;Dev&#92;Go&#92;src</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="C++">D:&#92;Dev&#92;C++</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="C">D:&#92;Dev&#92;C</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="AssemblyLanguage">D:&#92;Dev&#92;AssemblyLanguage</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="android_SkyWorldMobileApp">D:&#92;Dev&#92;Android&#92;src&#92;SkyWorldMobileMoney_PushNotificationsTest</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="android_SkyWorldMobileApp_Dev">D:&#92;Dev&#92;Android&#92;src&#92;SkyWorldMobileMoney_Custom_Notification_Service</DIRTOBKP>
+		<DIRTOBKP BKPZIPNAME="android_lib">D:&#92;Dev&#92;Android&#92;lib</DIRTOBKP>
+	</DIRSTOBKP>
+</ELONBKP>

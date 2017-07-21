@@ -1,0 +1,509 @@
+Backup Started At: 2017/01/29 00:09:42
+Zipping mode - ZIP
+--------------------
+Files Set for Back Up
+--------------------
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS'
+ZIP Filename - web_AngularJS_NodeJS
+
+DIR 'D:\Dev\Web\PHP'
+ZIP Filename - web_PHP
+
+DIR 'D:\Dev\Web\Projects'
+ZIP Filename - web_Projects
+
+DIR 'D:\Dev\Web\wamp64\www'
+ZIP Filename - web_www
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\lib'
+ZIP Filename - VS_WP_lib
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\src'
+ZIP Filename - VS_WP_src
+
+DIR 'D:\Dev\Ruby\src'
+ZIP Filename - ruby_src
+
+DIR 'D:\Dev\Python\ArtificialIntelligence'
+ZIP Filename - python_ArtificialIntelligence
+
+DIR 'D:\Dev\Python\Hosting'
+ZIP Filename - python_Hosting
+
+DIR 'D:\Dev\Python\lib'
+ZIP Filename - python_lib
+
+DIR 'D:\Dev\Python\Projects'
+ZIP Filename - python_Projects
+
+DIR 'D:\Dev\Python\src'
+ZIP Filename - python_src
+
+DIR 'D:\Dev\Java\src'
+ZIP Filename - java_src
+
+DIR 'D:\Dev\Java\lib'
+ZIP Filename - java_lib
+
+DIR 'D:\Dev\Java\Projects'
+ZIP Filename - java_Projects
+
+DIR 'D:\Dev\Go\src'
+ZIP Filename - go_src
+
+DIR 'D:\Dev\C++'
+ZIP Filename - C++
+
+DIR 'D:\Dev\C'
+ZIP Filename - C
+
+DIR 'D:\Dev\AssemblyLanguage'
+ZIP Filename - AssemblyLanguage
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_PushNotificationsTest'
+ZIP Filename - android_SkyWorldMobileApp
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_Custom_Notification_Service'
+ZIP Filename - android_SkyWorldMobileApp_Dev
+
+DIR 'D:\Dev\Android\lib'
+ZIP Filename - android_lib
+
+-----------------------------------------
+DIR 'F:\Dev\14856' has been deleted
+DIR 'F:\Dev\1485637782' has been created.
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS' is currently being backed up
+ZIP Filename - web_AngularJS_NodeJS
+
+Backup Started At: 2017/01/29 00:33:42
+Zipping mode - ZIP
+--------------------
+Files Set for Back Up
+--------------------
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS'
+ZIP Filename - web_AngularJS_NodeJS
+
+DIR 'D:\Dev\Web\PHP'
+ZIP Filename - web_PHP
+
+DIR 'D:\Dev\Web\Projects'
+ZIP Filename - web_Projects
+
+DIR 'D:\Dev\Web\wamp64\www'
+ZIP Filename - web_www
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\lib'
+ZIP Filename - VS_WP_lib
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\src'
+ZIP Filename - VS_WP_src
+
+DIR 'D:\Dev\Ruby\src'
+ZIP Filename - ruby_src
+
+DIR 'D:\Dev\Python\ArtificialIntelligence'
+ZIP Filename - python_ArtificialIntelligence
+
+DIR 'D:\Dev\Python\Hosting'
+ZIP Filename - python_Hosting
+
+DIR 'D:\Dev\Python\lib'
+ZIP Filename - python_lib
+
+DIR 'D:\Dev\Python\Projects'
+ZIP Filename - python_Projects
+
+DIR 'D:\Dev\Python\src'
+ZIP Filename - python_src
+
+DIR 'D:\Dev\Java\src'
+ZIP Filename - java_src
+
+DIR 'D:\Dev\Java\lib'
+ZIP Filename - java_lib
+
+DIR 'D:\Dev\Java\Projects'
+ZIP Filename - java_Projects
+
+DIR 'D:\Dev\Go\src'
+ZIP Filename - go_src
+
+DIR 'D:\Dev\C++'
+ZIP Filename - C++
+
+DIR 'D:\Dev\C'
+ZIP Filename - C
+
+DIR 'D:\Dev\AssemblyLanguage'
+ZIP Filename - AssemblyLanguage
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_PushNotificationsTest'
+ZIP Filename - android_SkyWorldMobileApp
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_Custom_Notification_Service'
+ZIP Filename - android_SkyWorldMobileApp_Dev
+
+DIR 'D:\Dev\Android\lib'
+ZIP Filename - android_lib
+
+-----------------------------------------
+
+--------------------
+Preparing Parent Backup Directory... 
+Kindly do not alter any folders here.
+Access is STRICTLY Read and Copy only!
+--------------------
+
+DIR 'F:\Dev\1485639222' has been created.
+
+Error: java.lang.NullPointerException
+
+--------------------
+Backup Completed At: 2017/01/29 00:33:42
+-----------------------------------------
+
+
+Backup Started At: 2017/01/29 00:34:02
+Zipping mode - ZIP
+--------------------
+Files Set for Back Up
+--------------------
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS'
+ZIP Filename - web_AngularJS_NodeJS
+
+DIR 'D:\Dev\Web\PHP'
+ZIP Filename - web_PHP
+
+DIR 'D:\Dev\Web\Projects'
+ZIP Filename - web_Projects
+
+DIR 'D:\Dev\Web\wamp64\www'
+ZIP Filename - web_www
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\lib'
+ZIP Filename - VS_WP_lib
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\src'
+ZIP Filename - VS_WP_src
+
+DIR 'D:\Dev\Ruby\src'
+ZIP Filename - ruby_src
+
+DIR 'D:\Dev\Python\ArtificialIntelligence'
+ZIP Filename - python_ArtificialIntelligence
+
+DIR 'D:\Dev\Python\Hosting'
+ZIP Filename - python_Hosting
+
+DIR 'D:\Dev\Python\lib'
+ZIP Filename - python_lib
+
+DIR 'D:\Dev\Python\Projects'
+ZIP Filename - python_Projects
+
+DIR 'D:\Dev\Python\src'
+ZIP Filename - python_src
+
+DIR 'D:\Dev\Java\src'
+ZIP Filename - java_src
+
+DIR 'D:\Dev\Java\lib'
+ZIP Filename - java_lib
+
+DIR 'D:\Dev\Java\Projects'
+ZIP Filename - java_Projects
+
+DIR 'D:\Dev\Go\src'
+ZIP Filename - go_src
+
+DIR 'D:\Dev\C++'
+ZIP Filename - C++
+
+DIR 'D:\Dev\C'
+ZIP Filename - C
+
+DIR 'D:\Dev\AssemblyLanguage'
+ZIP Filename - AssemblyLanguage
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_PushNotificationsTest'
+ZIP Filename - android_SkyWorldMobileApp
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_Custom_Notification_Service'
+ZIP Filename - android_SkyWorldMobileApp_Dev
+
+DIR 'D:\Dev\Android\lib'
+ZIP Filename - android_lib
+
+-----------------------------------------
+
+--------------------
+Preparing Parent Backup Directory... 
+Kindly do not alter any folders here.
+Access is STRICTLY Read and Copy only!
+--------------------
+
+DIR 'F:\Dev\1485639242' has been created.
+
+Error: java.lang.NullPointerException
+
+--------------------
+Backup Completed At: 2017/01/29 00:34:02
+-----------------------------------------
+
+
+Backup Started At: 2017/01/29 00:34:29
+Zipping mode - ZIP
+--------------------
+Files Set for Back Up
+--------------------
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS'
+ZIP Filename - web_AngularJS_NodeJS
+
+DIR 'D:\Dev\Web\PHP'
+ZIP Filename - web_PHP
+
+DIR 'D:\Dev\Web\Projects'
+ZIP Filename - web_Projects
+
+DIR 'D:\Dev\Web\wamp64\www'
+ZIP Filename - web_www
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\lib'
+ZIP Filename - VS_WP_lib
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\src'
+ZIP Filename - VS_WP_src
+
+DIR 'D:\Dev\Ruby\src'
+ZIP Filename - ruby_src
+
+DIR 'D:\Dev\Python\ArtificialIntelligence'
+ZIP Filename - python_ArtificialIntelligence
+
+DIR 'D:\Dev\Python\Hosting'
+ZIP Filename - python_Hosting
+
+DIR 'D:\Dev\Python\lib'
+ZIP Filename - python_lib
+
+DIR 'D:\Dev\Python\Projects'
+ZIP Filename - python_Projects
+
+DIR 'D:\Dev\Python\src'
+ZIP Filename - python_src
+
+DIR 'D:\Dev\Java\src'
+ZIP Filename - java_src
+
+DIR 'D:\Dev\Java\lib'
+ZIP Filename - java_lib
+
+DIR 'D:\Dev\Java\Projects'
+ZIP Filename - java_Projects
+
+DIR 'D:\Dev\Go\src'
+ZIP Filename - go_src
+
+DIR 'D:\Dev\C++'
+ZIP Filename - C++
+
+DIR 'D:\Dev\C'
+ZIP Filename - C
+
+DIR 'D:\Dev\AssemblyLanguage'
+ZIP Filename - AssemblyLanguage
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_PushNotificationsTest'
+ZIP Filename - android_SkyWorldMobileApp
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_Custom_Notification_Service'
+ZIP Filename - android_SkyWorldMobileApp_Dev
+
+DIR 'D:\Dev\Android\lib'
+ZIP Filename - android_lib
+
+-----------------------------------------
+
+--------------------
+Preparing Parent Backup Directory... 
+Kindly do not alter any folders here.
+Access is STRICTLY Read and Copy only!
+--------------------
+
+DIR 'F:\Dev\1485639269' has been created.
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS' is currently being backed up
+ZIP Filename - web_AngularJS_NodeJS
+
+Backup Started At: 2017/01/29 01:04:45
+Zipping mode - ZIP
+--------------------
+Files Set for Back Up
+--------------------
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS'
+ZIP Filename - web_AngularJS_NodeJS
+
+DIR 'D:\Dev\Web\PHP'
+ZIP Filename - web_PHP
+
+DIR 'D:\Dev\Web\Projects'
+ZIP Filename - web_Projects
+
+DIR 'D:\Dev\Web\wamp64\www'
+ZIP Filename - web_www
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\lib'
+ZIP Filename - VS_WP_lib
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\src'
+ZIP Filename - VS_WP_src
+
+DIR 'D:\Dev\Ruby\src'
+ZIP Filename - ruby_src
+
+DIR 'D:\Dev\Python\ArtificialIntelligence'
+ZIP Filename - python_ArtificialIntelligence
+
+DIR 'D:\Dev\Python\Hosting'
+ZIP Filename - python_Hosting
+
+DIR 'D:\Dev\Python\lib'
+ZIP Filename - python_lib
+
+DIR 'D:\Dev\Python\Projects'
+ZIP Filename - python_Projects
+
+DIR 'D:\Dev\Python\src'
+ZIP Filename - python_src
+
+DIR 'D:\Dev\Java\src'
+ZIP Filename - java_src
+
+DIR 'D:\Dev\Java\lib'
+ZIP Filename - java_lib
+
+DIR 'D:\Dev\Java\Projects'
+ZIP Filename - java_Projects
+
+DIR 'D:\Dev\Go\src'
+ZIP Filename - go_src
+
+DIR 'D:\Dev\C++'
+ZIP Filename - C++
+
+DIR 'D:\Dev\C'
+ZIP Filename - C
+
+DIR 'D:\Dev\AssemblyLanguage'
+ZIP Filename - AssemblyLanguage
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_PushNotificationsTest'
+ZIP Filename - android_SkyWorldMobileApp
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_Custom_Notification_Service'
+ZIP Filename - android_SkyWorldMobileApp_Dev
+
+DIR 'D:\Dev\Android\lib'
+ZIP Filename - android_lib
+
+-----------------------------------------
+
+--------------------
+Preparing Parent Backup Directory... 
+Kindly do not alter any folders here.
+Access is STRICTLY Read and Copy only!
+--------------------
+
+DIR 'F:\Dev\1485641085' has been created.
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS' is currently being backed up
+ZIP Filename - web_AngularJS_NodeJS
+
+Backup Started At: 2017/01/29 23:45:43
+Zipping mode - ZIP
+--------------------
+Files Set for Back Up
+--------------------
+
+DIR 'D:\Dev\Web\AngularJS_NodeJS'
+ZIP Filename - web_AngularJS_NodeJS
+
+DIR 'D:\Dev\Web\PHP'
+ZIP Filename - web_PHP
+
+DIR 'D:\Dev\Web\Projects'
+ZIP Filename - web_Projects
+
+DIR 'D:\Dev\Web\wamp64\www'
+ZIP Filename - web_www
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\lib'
+ZIP Filename - VS_WP_lib
+
+DIR 'D:\Dev\VisualStudio\WindowsPhone\src'
+ZIP Filename - VS_WP_src
+
+DIR 'D:\Dev\Ruby\src'
+ZIP Filename - ruby_src
+
+DIR 'D:\Dev\Python\ArtificialIntelligence'
+ZIP Filename - python_ArtificialIntelligence
+
+DIR 'D:\Dev\Python\Hosting'
+ZIP Filename - python_Hosting
+
+DIR 'D:\Dev\Python\lib'
+ZIP Filename - python_lib
+
+DIR 'D:\Dev\Python\Projects'
+ZIP Filename - python_Projects
+
+DIR 'D:\Dev\Python\src'
+ZIP Filename - python_src
+
+DIR 'D:\Dev\Java\src'
+ZIP Filename - java_src
+
+DIR 'D:\Dev\Java\lib'
+ZIP Filename - java_lib
+
+DIR 'D:\Dev\Java\Projects'
+ZIP Filename - java_Projects
+
+DIR 'D:\Dev\Go\src'
+ZIP Filename - go_src
+
+DIR 'D:\Dev\C++'
+ZIP Filename - C++
+
+DIR 'D:\Dev\C'
+ZIP Filename - C
+
+DIR 'D:\Dev\AssemblyLanguage'
+ZIP Filename - AssemblyLanguage
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_PushNotificationsTest'
+ZIP Filename - android_SkyWorldMobileApp
+
+DIR 'D:\Dev\Android\src\SkyWorldMobileMoney_Custom_Notification_Service'
+ZIP Filename - android_SkyWorldMobileApp_Dev
+
+DIR 'D:\Dev\Android\lib'
+ZIP Filename - android_lib
+
+-----------------------------------------
+
+Current Backup is up to date.
+Lifetime remaining = 523884 seconds
+
+--------------------
+Backup Completed At: 2017/01/29 23:45:43
+-----------------------------------------
+
+
