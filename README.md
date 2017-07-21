@@ -1,10 +1,12 @@
 # Elon Backup Script #
 
 v1.0.0
+
 Optimized for Windows 10
+
 Might also work on older versions of Windows
 
-### Java src for automated backups ###
+### Java source for automated backups ###
 
 * Quick summary
 * Version
